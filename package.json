@@ -10,6 +10,6 @@
   "author": "Francisco Giordano <frangio.1@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "semver": "^6.3.0"
+    "semver": "^7.0.0"
   }
 }
